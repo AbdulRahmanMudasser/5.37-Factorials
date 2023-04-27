@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Factorial
+{
+    static void Main()
+    {
+
+    }
+    // end of main method
+}
+// end of class
