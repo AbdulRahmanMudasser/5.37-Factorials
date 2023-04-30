@@ -24,6 +24,7 @@
                 factorial = factorial * i;
             }
 
+            // displaying factorial of number
             Console.WriteLine("{0}! = {1}", number, factorial);
         }
     }
